@@ -1,4 +1,6 @@
 Bank Management System
+
+
 Welcome to the Bank Management System, a Python-based command-line application designed to manage bank accounts efficiently. This system allows users to sign in, sign up, manage their accounts, perform transactions, and check their account details.
 
 Features
@@ -33,7 +35,7 @@ Installation
 Install MySQL Connector:
 pip install mysql-connector-python
 Clone the repository:
-git clone https://github.com/mohitprajapat2001/Python-Bank-Project
+git clone :https://github.com/22BCS13002/Banking-Management-System-/edit/main/README.md
 Navigate to the project directory:
 cd Python-Bank-Project
 Usage
@@ -61,3 +63,4 @@ Implements object-oriented programming (OOP) for better code management and scal
 Each account has a unique account number.
 Date/Time Functions
 Utilizes date and time functions to keep track of transactions and account activities
+
